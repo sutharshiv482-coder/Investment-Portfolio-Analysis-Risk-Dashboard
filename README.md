@@ -1,2 +1,5 @@
-# Investment-Portfolio-Analysis-Risk-Dashboard
-A wealth management firm needs to track client portfolio performance. This project cleans messy stock data, calculates returns &amp; risk metrics, optimises allocation using Efficient Frontier, and delivers an advisor dashboard. Built with Python, SQL &amp; Power BI.
+# 📈 Investment Portfolio Analysis & Risk Dashboard
+
+An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **Python, SQL, and Power BI** to help wealth management firms monitor portfolio performance, measure investment risk, optimize asset allocation, and support data-driven investment decisions.
+
+---
