@@ -14,6 +14,8 @@ An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **
 
 # ❓ Business Questions
 
--
+- What is the current return on each stock in the portfolio?
+- 
+
 
 ---
