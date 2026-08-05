@@ -28,3 +28,9 @@ An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **
 
 
 ---
+
+# 🛠️ Technology Stack
+
+
+
+---
