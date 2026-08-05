@@ -20,3 +20,8 @@ An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **
 - Calculate daily return and 30-day rolling volatility for each stock
 
 ---
+
+# 📌 Key Performance Indicators (KPIs)
+
+
+---
