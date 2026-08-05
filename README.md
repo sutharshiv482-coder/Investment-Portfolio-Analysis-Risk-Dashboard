@@ -18,6 +18,9 @@ An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **
 - Which portfolio (A, B, C) has the highest total market value and best return?
 - What is the sector-wise allocation and is the portfolio over-concentrated?
 - Calculate daily return and 30-day rolling volatility for each stock
+- Which stocks have OHLC data errors and should be excluded from analysis?
+- Calculate Sharpe Ratio for each stock in the portfolio
+
 
 ---
 
