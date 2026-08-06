@@ -45,7 +45,8 @@ An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **
 
 ### 1️⃣ Data Preparation
 
-- 
+- Loaded the dataset using Pandas.
+- Removed duplicate records.
 
 ### 2️⃣ Data Analysis
 
