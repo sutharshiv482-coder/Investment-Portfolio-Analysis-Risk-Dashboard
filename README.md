@@ -34,3 +34,27 @@ An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **
 
 
 ---
+
+## 🛠️ Tools & Technologies
+
+- Python (Pandas)
+
+---
+
+# 🔄 Project Methodology
+
+### 1️⃣ Data Preparation
+
+- 
+
+### 2️⃣ Data Analysis
+
+- 
+
+### 3️⃣ Dashboard Development
+
+- 
+
+> **Reliable lending decisions begin with clean, accurate, and well-structured data.**
+
+---
