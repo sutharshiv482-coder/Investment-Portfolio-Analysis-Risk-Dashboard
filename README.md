@@ -6,9 +6,20 @@ An interactive **Investment Portfolio Analytics Dashboard** built using **Python
 
 # 🎯 Project Objective
 
+Develop an end-to-end investment portfolio analytics solution to:
+
+- Analyze portfolio performance across multiple stocks.
+- Calculate daily and cumulative investment returns.
+- Measure portfolio risk using financial metrics.
+- Optimize portfolio allocation using the Efficient Frontier.
+- Monitor key investment KPIs through an interactive dashboard.
+- Support smarter, data-driven investment decisions.
+
 ---
 
 # 💼 Business Value
+
+Wealth management firms monitor multiple investments daily to ensure clients achieve their financial goals while managing risk. Poor-quality financial data and the absence of risk analysis can lead to inaccurate portfolio evaluations and suboptimal investment decisions. This project enables investment analysts to clean and analyze stock market data, evaluate portfolio performance, identify potential risks, optimize asset allocation, and deliver actionable insights through an interactive dashboard.
 
 ---
 
