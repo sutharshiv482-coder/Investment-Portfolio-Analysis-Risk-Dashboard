@@ -31,17 +31,12 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Calculate daily return and 30-day rolling volatility for each stock
 - Which stocks have OHLC data errors and should be excluded from analysis?
 - Calculate Sharpe Ratio for each stock in the portfolio
-
+- What is the portfolio's Value at Risk (VaR) at 95% confidence?
+- Which stocks are most correlated, and does that reduce diversification?
 
 ---
 
 # 📌 Key Performance Indicators (KPIs)
-
-
----
-
-# 🛠️ Technology Stack
-
 
 
 ---
