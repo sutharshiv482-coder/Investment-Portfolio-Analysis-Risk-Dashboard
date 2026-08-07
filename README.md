@@ -1,6 +1,6 @@
 # 📈 Investment Portfolio Analysis & Risk Dashboard
 
-An interactive **Investment Portfolio Analysis & Risk Dashboard** built using **Python, SQL, and Power BI** to help wealth management firms monitor portfolio performance, measure investment risk, optimize asset allocation, and support data-driven investment decisions.
+An interactive **Investment Portfolio Analytics Dashboard** built using **Python (Pandas), SQL, and Power BI** to analyze portfolio performance, measure investment risk, optimize asset allocation, and support data-driven investment decisions. The project transforms raw stock market data into actionable insights that help wealth managers monitor portfolio health, evaluate risk, and maximize long-term returns.
 
 ---
 
