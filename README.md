@@ -46,9 +46,14 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Technology Stack
 
-- Python (Pandas)
+| Tool | Purpose |
+|------|----------|
+| **Python (Pandas)** | Data cleaning, preprocessing, and financial analysis |
+| **SQL** | Business analysis and KPI calculations |
+| **Power BI** | Interactive dashboard and visualization |
+| **Jupyter Notebook** | Data exploration and analysis |
 
 ---
 
