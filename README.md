@@ -54,12 +54,16 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 # 🔄 Project Methodology
 
-### 1️⃣ Data Preparation
+## 1️⃣ Data Preparation
 
-- Loaded the dataset using Pandas.
+- Loaded the stock market dataset using Pandas.
 - Removed duplicate records.
-- Removed completely empty and unnecessary columns.
-- Trimmed leading and trailing whitespace from text fields.
+- Standardized ticker symbols and sector names.
+- Corrected inconsistent date formats.
+- Fixed invalid stock prices and market capitalization values.
+- Handled missing values.
+- Removed unnecessary columns.
+- Validated data quality before analysis.
 
 ### 2️⃣ Data Analysis
 
