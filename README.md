@@ -65,14 +65,15 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Removed unnecessary columns.
 - Validated data quality before analysis.
 
-### 2️⃣ Data Analysis
+## 2️⃣ Data Analysis
 
 - 
 
-### 3️⃣ Dashboard Development
+## 3️⃣ Dashboard Development
 
 - 
 
-> **Reliable lending decisions begin with clean, accurate, and well-structured data.**
+> **Better investment decisions begin with clean, accurate, and well-structured financial data.**
 
 ---
+
