@@ -77,3 +77,14 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 ---
 
+# 📊 Dashboard Preview
+
+![Investment Portfolio Dashboard]()
+
+---
+
+# ⚙️ Dashboard Features
+
+- 
+
+---
