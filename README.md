@@ -33,6 +33,8 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Calculate Sharpe Ratio for each stock in the portfolio
 - What is the portfolio's Value at Risk (VaR) at 95% confidence?
 - Which stocks are most correlated, and does that reduce diversification?
+- Find all analyst rating inconsistencies and standardise them
+- Build a full data quality audit report before analysis begins
 
 ---
 
