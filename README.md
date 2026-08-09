@@ -69,7 +69,12 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 ## 2️⃣ Data Analysis
 
-- 
+- Calculated daily and cumulative returns.
+- Computed CAGR and unrealized Profit & Loss (P&L).
+- Measured Volatility, Sharpe Ratio, Beta, VaR, and Maximum Drawdown.
+- Performed portfolio optimization using the Efficient Frontier.
+- Analyzed stock correlation and portfolio diversification.
+- Evaluated overall portfolio performance.
 
 ## 3️⃣ Dashboard Development
 
