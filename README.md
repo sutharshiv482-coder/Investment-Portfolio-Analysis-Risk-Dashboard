@@ -80,7 +80,10 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 ## 3️⃣ Dashboard Development
 
-- 
+- Built an interactive Power BI dashboard.
+- Designed KPI cards and investment visualizations.
+- Added dynamic filters and drill-down functionality.
+- Presented actionable insights for portfolio management.
 
 > **Better investment decisions begin with clean, accurate, and well-structured financial data.**
 
