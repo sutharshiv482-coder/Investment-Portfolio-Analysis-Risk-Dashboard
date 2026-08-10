@@ -35,6 +35,8 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Which stocks are most correlated, and does that reduce diversification?
 - Find all analyst rating inconsistencies and standardise them
 - Build a full data quality audit report before analysis begins
+- Which stocks have unusually high volume on a given day (volume spike detection)?
+- Calculate beta-adjusted portfolio risk and compare to benchmark (S&P 500)
 
 ---
 
