@@ -120,3 +120,21 @@ The Investment Portfolio Analysis Dashboard helps wealth managers:
 - 
 
 ---
+
+# 🧠 Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Python (Pandas)
+- SQL
+- Power BI
+- Financial Data Analysis
+- Portfolio Performance Analysis
+- Risk Analytics
+- Portfolio Optimization
+- KPI Reporting
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+
+---
