@@ -104,6 +104,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 # 📈 Key Business Insights
 
 - BRK, INTC, and BAC are the top-performing stocks in the portfolio, generating average returns above 12%. In contrast, TSLA is the weakest performer with a negative return of -0.47%. Overall, the portfolio shows positive performance across most stocks, but TSLA requires closer monitoring due to its underperformance.
+- Portfolio A has the highest total market value at $720.82M, but it has a negative return of -2.70%. Portfolio C delivers the best return at 0.63% despite having the lowest market value of $687.90M. This shows that a larger portfolio size does not necessarily lead to better investment performance.
 
 
 ---
