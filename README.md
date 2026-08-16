@@ -106,6 +106,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - BRK, INTC, and BAC are the top-performing stocks in the portfolio, generating average returns above 12%. In contrast, TSLA is the weakest performer with a negative return of -0.47%. Overall, the portfolio shows positive performance across most stocks, but TSLA requires closer monitoring due to its underperformance.
 - Portfolio A has the highest total market value at $720.82M, but it has a negative return of -2.70%. Portfolio C delivers the best return at 0.63% despite having the lowest market value of $687.90M. This shows that a larger portfolio size does not necessarily lead to better investment performance.
 - Technology has the highest portfolio allocation at 27.41%, while Healthcare has the lowest at 16.37%. No sector exceeds the 40% concentration threshold, indicating that the portfolio is not over-concentrated and maintains a relatively balanced sector diversification.
+- The portfolio is reasonably diversified across five sectors, with Technology having the highest exposure (27.41%). No individual sector exceeds the 40% concentration threshold, indicating that the portfolio does not currently have significant sector concentration risk.
 
 
 ---
