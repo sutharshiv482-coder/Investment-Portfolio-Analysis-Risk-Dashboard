@@ -25,18 +25,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 # ❓ Business Questions
 
-- What is the current return on each stock in the portfolio?
-- Which portfolio (A, B, C) has the highest total market value and best return?
-- What is the sector-wise allocation and is the portfolio over-concentrated?
-- Calculate daily return and 30-day rolling volatility for each stock
-- Which stocks have OHLC data errors and should be excluded from analysis?
-- Calculate Sharpe Ratio for each stock in the portfolio
-- What is the portfolio's Value at Risk (VaR) at 95% confidence?
-- Which stocks are most correlated, and does that reduce diversification?
-- Find all analyst rating inconsistencies and standardise them
-- Build a full data quality audit report before analysis begins
-- Which stocks have unusually high volume on a given day (volume spike detection)?
-- Calculate beta-adjusted portfolio risk and compare to benchmark (S&P 500)
+
 
 ---
 
