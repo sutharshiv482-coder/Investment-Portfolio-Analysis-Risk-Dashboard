@@ -25,7 +25,8 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 # ❓ Business Questions
 
-
+- Which 5 stocks gave the highest unrealised profit in our Indian portfolio?
+- Calculate month-wise portfolio return for each of the 3 portfolios
 
 ---
 
