@@ -27,6 +27,8 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 
 - Which 5 stocks gave the highest unrealised profit in our Indian portfolio?
 - Calculate month-wise portfolio return for each of the 3 portfolios
+- Calculate the Sharpe Ratio for each stock and identify which are not worth holding
+- 
 
 ---
 
