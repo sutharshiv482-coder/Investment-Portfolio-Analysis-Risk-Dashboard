@@ -30,6 +30,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Calculate the Sharpe Ratio for each stock and identify which are not worth holding
 - What is the portfolio's Value at Risk (VaR) in ₹ crores at 95% confidence?
 - Standardise all date formats and find which months have the most trades
+- Convert market_cap_cr from mixed format (₹ string + number) to clean numeric crores
 
 ---
 
