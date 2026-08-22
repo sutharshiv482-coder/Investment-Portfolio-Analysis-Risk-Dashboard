@@ -31,6 +31,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - What is the portfolio's Value at Risk (VaR) in ₹ crores at 95% confidence?
 - Standardise all date formats and find which months have the most trades
 - Convert market_cap_cr from mixed format (₹ string + number) to clean numeric crores
+- Compare total portfolio value and return across all 3 portfolios
 
 ---
 
