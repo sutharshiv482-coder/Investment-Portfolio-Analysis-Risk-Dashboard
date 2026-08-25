@@ -33,6 +33,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Convert market_cap_cr from mixed format (₹ string + number) to clean numeric crores
 - Detect and fix all OHLC data errors in the dataset
 - Compare total portfolio value and return across all 3 portfolios
+- Find stocks where analyst says "Sell" but we still hold a large position — conflict alert
 
 ---
 
