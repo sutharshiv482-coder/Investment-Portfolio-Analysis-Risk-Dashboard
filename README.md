@@ -108,6 +108,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - The market_cap_cr field contained mixed formats, including rupee-formatted strings and numeric values. The data was standardised by removing currency symbols, commas, and the Cr suffix, then converting all values into a consistent numeric value in ₹ crores. This ensures accurate market-cap comparisons and prevents data-type errors during portfolio analysis, aggregation, and financial calculations.
 - The MIDCAP_PORTFOLIO was the strongest performer, generating a 514.76% return and reaching a total portfolio value of approximately ₹361.97 crore. The SECTORAL_PORTFOLIO ranked second with a 397.89% return and a value of ₹259.62 crore, while the NIFTY50_PORTFOLIO generated the lowest return of 76.33%, with a value of ₹106.88 crore. Overall, the results indicate that the Midcap strategy significantly outperformed both the Sectoral and Nifty 50 portfolios, making it the best-performing strategy in this analysis.
 - NESTLEIND represents a significant portfolio conflict, as the stock is rated SELL by analysts while multiple large positions are still being held. The largest position is 1,711 shares worth approximately ₹4.48 crore, with several additional positions exceeding ₹3 crore.
+- NSE stocks strongly outperformed BSE stocks, delivering an average return of 1,015.45% versus 54.11% for BSE, indicating significantly stronger performance from NSE-listed stocks in this portfolio.
 
 ---
 
