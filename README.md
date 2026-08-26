@@ -35,6 +35,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - Compare total portfolio value and return across all 3 portfolios
 - Find stocks where analyst says "Sell" but we still hold a large position — conflict alert
 - Which NSE stocks outperformed BSE stocks in return % on average?
+- Is our portfolio over-concentrated in any sector? Flag sectors exceeding 35% allocation
 
 ---
 
