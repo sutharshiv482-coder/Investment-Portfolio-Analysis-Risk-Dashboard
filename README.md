@@ -115,6 +115,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - NESTLEIND represents a significant portfolio conflict, as the stock is rated SELL by analysts while multiple large positions are still being held. The largest position is 1,711 shares worth approximately ₹4.48 crore, with several additional positions exceeding ₹3 crore.
 - NSE stocks strongly outperformed BSE stocks, delivering an average return of 1,015.45% versus 54.11% for BSE, indicating significantly stronger performance from NSE-listed stocks in this portfolio.
 - The portfolio is over-concentrated in Technology, with 44.06% allocation, exceeding the 35% risk threshold by 9.06 percentage points. This high concentration increases exposure to sector-specific volatility and highlights a need for better diversification across sectors.
+- The Automobile sector has the highest average P/E ratio of 42.92, indicating a premium valuation and strong investor growth expectations, but also a higher risk of overvaluation if earnings fail to meet expectations.
 
 ---
 
