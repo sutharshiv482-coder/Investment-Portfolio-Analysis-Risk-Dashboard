@@ -37,22 +37,24 @@ This project provides a centralized analytics solution to:
 
 # ❓ Business Questions
 
-- Which 5 stocks gave the highest unrealised profit in our Indian portfolio?
-- Calculate month-wise portfolio return for each of the 3 portfolios
-- Calculate the Sharpe Ratio for each stock and identify which are not worth holding
-- What is the portfolio's Value at Risk (VaR) in ₹ crores at 95% confidence?
-- Standardise all date formats and find which months have the most trades
-- Convert market_cap_cr from mixed format (₹ string + number) to clean numeric crores
-- Detect and fix all OHLC data errors in the dataset
-- Compare total portfolio value and return across all 3 portfolios
-- Find stocks where analyst says "Sell" but we still hold a large position — conflict alert
-- Which NSE stocks outperformed BSE stocks in return % on average?
-- Is our portfolio over-concentrated in any sector? Flag sectors exceeding 35% allocation
-- Which sector has the best average P/E ratio and what does it indicate for valuation?
-- Which sector generates the highest dividend income and is it sustainable?
-
+- Which 5 stocks generated the highest unrealised profit?
+- What are the month-wise returns for each portfolio?
+- Which stocks have the best and worst Sharpe Ratios?
+- Which stocks may not be worth holding based on risk-adjusted performance?
+- What is the portfolio's Value at Risk (VaR) at 95% confidence?
+- Which months recorded the highest trading activity?
+- How can mixed market capitalization formats be standardized?
+- Are there any OHLC data quality issues?
+- Which portfolio has the highest overall return and value?
+- Are there stocks rated **"Sell"** by analysts while still holding large positions?
+- Which exchange, NSE or BSE, generated higher average returns?
+- Is the portfolio over-concentrated in any sector?
+- Which sector has the highest average P/E ratio?
+- Which sector generates the highest dividend income?
+- Is the portfolio sufficiently diversified across sectors?
 
 ---
+
 
 # 📌 Key Performance Indicators (KPIs)
 
