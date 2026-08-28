@@ -116,6 +116,7 @@ Wealth management firms monitor multiple investments daily to ensure clients ach
 - NSE stocks strongly outperformed BSE stocks, delivering an average return of 1,015.45% versus 54.11% for BSE, indicating significantly stronger performance from NSE-listed stocks in this portfolio.
 - The portfolio is over-concentrated in Technology, with 44.06% allocation, exceeding the 35% risk threshold by 9.06 percentage points. This high concentration increases exposure to sector-specific volatility and highlights a need for better diversification across sectors.
 - The Automobile sector has the highest average P/E ratio of 42.92, indicating a premium valuation and strong investor growth expectations, but also a higher risk of overvaluation if earnings fail to meet expectations.
+- Technology generates the highest dividend income at approximately ₹48.53 crore, making it the portfolio’s leading contributor to dividend earnings; however, sustainability cannot be determined from dividend income alone and would require payout ratio, earnings, and cash-flow analysis.
 
 ---
 
