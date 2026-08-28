@@ -8,9 +8,11 @@ An interactive **Investment Portfolio Analytics Dashboard** built using **Python
 
 Develop an end-to-end investment portfolio analytics solution to:
 
-- Analyze portfolio performance across multiple stocks.
-- Calculate daily and cumulative investment returns.
-- Measure portfolio risk using financial metrics.
+- Analyze portfolio performance across multiple stocks and portfolios.
+- Calculate daily, monthly, and cumulative investment returns.
+- Measure portfolio risk using financial risk metrics.
+- Identify profitable and underperforming stocks.
+- Evaluate sector diversification and concentration risk.
 - Optimize portfolio allocation using the Efficient Frontier.
 - Monitor key investment KPIs through an interactive dashboard.
 - Support smarter, data-driven investment decisions.
