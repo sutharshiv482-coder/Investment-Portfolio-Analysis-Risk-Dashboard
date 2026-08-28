@@ -21,7 +21,17 @@ Develop an end-to-end investment portfolio analytics solution to:
 
 # 💼 Business Value
 
-Wealth management firms monitor multiple investments daily to ensure clients achieve their financial goals while managing risk. Poor-quality financial data and the absence of risk analysis can lead to inaccurate portfolio evaluations and suboptimal investment decisions. This project enables investment analysts to clean and analyze stock market data, evaluate portfolio performance, identify potential risks, optimize asset allocation, and deliver actionable insights through an interactive dashboard.
+Wealth management firms manage multiple investments to balance **returns, risk, and diversification**. Poor-quality financial data, excessive sector concentration, and limited risk visibility can result in suboptimal investment decisions.
+
+This project provides a centralized analytics solution to:
+
+- Monitor portfolio performance.
+- Identify major profit contributors.
+- Evaluate risk-adjusted returns.
+- Detect portfolio concentration.
+- Compare investment strategies.
+- Identify potential analyst-rating conflicts.
+- Support better portfolio allocation and risk management.
 
 ---
 
