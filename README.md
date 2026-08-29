@@ -91,7 +91,10 @@ This project provides a centralized analytics solution to:
 - Removed duplicate records.
 - Standardized ticker symbols and sector names.
 - Corrected inconsistent date formats.
-- Fixed invalid stock prices and market capitalization values.
+- Fixed invalid stock prices.
+- Detected and corrected OHLC data errors.
+- Standardized market capitalization values.
+- Converted mixed market-cap formats into numeric ₹ crores.
 - Handled missing values.
 - Removed unnecessary columns.
 - Validated data quality before analysis.
@@ -99,22 +102,35 @@ This project provides a centralized analytics solution to:
 ## 2️⃣ Data Analysis
 
 - Calculated daily and cumulative returns.
-- Computed CAGR and unrealized Profit & Loss (P&L).
-- Measured Volatility, Sharpe Ratio, Beta, VaR, and Maximum Drawdown.
-- Performed portfolio optimization using the Efficient Frontier.
-- Analyzed stock correlation and portfolio diversification.
-- Evaluated overall portfolio performance.
+- Calculated month-wise portfolio returns.
+- Computed CAGR and unrealised Profit & Loss (P&L).
+- Calculated Volatility, Sharpe Ratio, Beta, VaR, and Maximum Drawdown.
+- Compared portfolio performance across three portfolios.
+- Analyzed stock and sector performance.
+- Evaluated stock correlation and diversification.
+- Identified analyst-rating and portfolio-position conflicts.
+- Analyzed sector valuation using P/E ratios.
+- Evaluated dividend income by sector.
 
-## 3️⃣ Dashboard Development
+## 3️⃣ Portfolio Optimization
 
-- Built an interactive Power BI dashboard.
-- Designed KPI cards and investment visualizations.
-- Added dynamic filters and drill-down functionality.
+- Applied **Efficient Frontier** methodology.
+- Used portfolio return and risk relationships to evaluate asset allocation.
+- Identified opportunities to improve diversification.
+- Evaluated risk-adjusted portfolio performance.
+
+## 4️⃣ Dashboard Development
+
+- Built an interactive **Power BI dashboard**.
+- Designed KPI cards for portfolio monitoring.
+- Created performance and risk visualizations.
+- Added interactive filters and drill-down functionality.
 - Presented actionable insights for portfolio management.
 
 > **Better investment decisions begin with clean, accurate, and well-structured financial data.**
 
 ---
+
 
 # 📊 Dashboard Preview
 
