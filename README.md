@@ -76,10 +76,10 @@ This project provides a centralized analytics solution to:
 
 | Tool | Purpose |
 |------|----------|
-| **Python (Pandas)** | Data cleaning, preprocessing, and financial analysis |
-| **SQL** | Business analysis and KPI calculations |
-| **Power BI** | Interactive dashboard and visualization |
-| **Jupyter Notebook** | Data exploration and analysis |
+| **Python (Pandas)** | Data cleaning, preprocessing, EDA, and financial analysis |
+| **SQL** | Business analysis, KPI calculations, and portfolio insights |
+| **Power BI** | Interactive dashboard development and visualization |
+| **Jupyter Notebook** | Data exploration, calculations, and analysis |
 
 ---
 
