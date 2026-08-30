@@ -166,18 +166,79 @@ This project provides a centralized analytics solution to:
 
 # 📈 Key Business Insights
 
-- The analysis shows that TECHM, HCLTECH, BHARTIARTL, ULTRACEMCO, and KOTAKBANK are the top five unrealised-profit contributors, generating a combined ₹5,567.22 crore in unrealised gains. TECHM leads with ₹1,603.58 crore, followed by HCLTECH at ₹1,428.93 crore and BHARTIARTL at ₹1,186.89 crore. The top three stocks contribute approximately 76% of the combined gains from these five holdings, indicating that a significant portion of portfolio performance is concentrated in a few stocks. While this highlights strong performance from key holdings, it also suggests that position sizing and diversification should be monitored to manage concentration risk and protect accumulated gains.
-- The month-wise analysis shows that MIDCAP_PORTFOLIO delivered the strongest upside during several periods, including 14.40% in Jan-2020, 14.09% in Aug-2020, and 13.36% in Jun-2022, but also experienced higher downside volatility, falling 19.57% in Oct-2024. NIFTY50_PORTFOLIO appears relatively more stable, with its strongest month being 10.39% in Jul-2024, while SECTORAL_PORTFOLIO produced several strong positive months, including 12.05% in Apr-2020 and 12.80% in Dec-2022. However, the unusually large returns of 7,041.01%, 11,060.38%, 10,347.04%, 8,895.74%, and 5,049.75% are clear data-quality outliers and should be investigated before using the results for investment decisions. Overall, MIDCAP offers higher return potential but greater volatility, NIFTY50 provides comparatively consistent performance, and SECTORAL shows mixed but occasionally strong returns.
-- KOTAKBANK delivered the best risk-adjusted performance with a Sharpe Ratio of 1.19, followed by ULTRACEMCO (1.17) and BHARTIARTL (1.13). Overall, all 25 stocks generated positive Sharpe Ratios, indicating that they provided returns above the risk-free rate relative to their volatility. However, NESTLEIND (0.35), WIPRO (0.36), HINDUNILVR (0.39), and ONGC (0.39) had the weakest risk-adjusted performance and should be reviewed for portfolio optimisation.
-- The portfolio’s 95% Value at Risk (VaR) is ₹4.17 lakh, indicating that the portfolio is expected to limit its daily loss to approximately ₹4.17 lakh on 95% of trading days. However, there is a 5% probability of experiencing a daily loss exceeding this level, highlighting the portfolio’s exposure to potential short-term market risk.
-- The analysis shows that February 2024 recorded the highest trading activity with 133 trades, followed by January 2023 (126) and September 2024 (126). Trading activity was generally stronger during 2023–2024, while several months in 2020–2022 recorded comparatively lower activity. Overall, the results indicate uneven trading volume across months, with February 2024 representing the peak period for transaction activity.
-- The market_cap_cr field contained mixed formats, including rupee-formatted strings and numeric values. The data was standardised by removing currency symbols, commas, and the Cr suffix, then converting all values into a consistent numeric value in ₹ crores. This ensures accurate market-cap comparisons and prevents data-type errors during portfolio analysis, aggregation, and financial calculations.
-- The MIDCAP_PORTFOLIO was the strongest performer, generating a 514.76% return and reaching a total portfolio value of approximately ₹361.97 crore. The SECTORAL_PORTFOLIO ranked second with a 397.89% return and a value of ₹259.62 crore, while the NIFTY50_PORTFOLIO generated the lowest return of 76.33%, with a value of ₹106.88 crore. Overall, the results indicate that the Midcap strategy significantly outperformed both the Sectoral and Nifty 50 portfolios, making it the best-performing strategy in this analysis.
-- NESTLEIND represents a significant portfolio conflict, as the stock is rated SELL by analysts while multiple large positions are still being held. The largest position is 1,711 shares worth approximately ₹4.48 crore, with several additional positions exceeding ₹3 crore.
-- NSE stocks strongly outperformed BSE stocks, delivering an average return of 1,015.45% versus 54.11% for BSE, indicating significantly stronger performance from NSE-listed stocks in this portfolio.
-- The portfolio is over-concentrated in Technology, with 44.06% allocation, exceeding the 35% risk threshold by 9.06 percentage points. This high concentration increases exposure to sector-specific volatility and highlights a need for better diversification across sectors.
-- The Automobile sector has the highest average P/E ratio of 42.92, indicating a premium valuation and strong investor growth expectations, but also a higher risk of overvaluation if earnings fail to meet expectations.
-- Technology generates the highest dividend income at approximately ₹48.53 crore, making it the portfolio’s leading contributor to dividend earnings; however, sustainability cannot be determined from dividend income alone and would require payout ratio, earnings, and cash-flow analysis.
+### 🏆 Top Unrealised Profit Contributors
+
+- **TECHM, HCLTECH, BHARTIARTL, ULTRACEMCO, and KOTAKBANK** were the top five unrealised-profit contributors, generating a combined **₹5,567.22 crore** in unrealised gains.
+- **TECHM** led with **₹1,603.58 crore**, followed by **HCLTECH (₹1,428.93 crore)** and **BHARTIARTL (₹1,186.89 crore)**.
+- The top three stocks contributed approximately **76%** of the combined gains from these five holdings, highlighting potential concentration risk.
+
+### 📅 Portfolio Return Analysis
+
+- **MIDCAP_PORTFOLIO** delivered strong upside during several periods, including **14.40% in Jan-2020**, **14.09% in Aug-2020**, and **13.36% in Jun-2022**.
+- However, the portfolio also experienced significant downside, falling **19.57% in Oct-2024**.
+- **NIFTY50_PORTFOLIO** showed comparatively stable performance, while **SECTORAL_PORTFOLIO** produced several strong positive months.
+- Extremely high monthly returns such as **7,041.01%, 11,060.38%, 10,347.04%, 8,895.74%, and 5,049.75%** were identified as data-quality outliers and should be investigated before using the results for investment decisions.
+
+### ⚖️ Risk-Adjusted Performance
+
+- **KOTAKBANK** delivered the best Sharpe Ratio at **1.19**, followed by **ULTRACEMCO (1.17)** and **BHARTIARTL (1.13)**.
+- All 25 stocks generated positive Sharpe Ratios.
+- **NESTLEIND (0.35), WIPRO (0.36), HINDUNILVR (0.39), and ONGC (0.39)** recorded the weakest Sharpe Ratios and should be reviewed for portfolio optimization.
+
+### ⚠️ Portfolio Value at Risk
+
+- The portfolio's **95% VaR is approximately ₹4.17 lakh**, indicating the estimated daily loss threshold at the 95% confidence level.
+- There remains a **5% probability** of experiencing a daily loss greater than the estimated VaR, highlighting the importance of short-term risk monitoring.
+
+### 📅 Trading Activity
+
+- **February 2024** recorded the highest trading activity with **133 trades**.
+- **January 2023** and **September 2024** followed with **126 trades each**.
+- Trading activity was generally stronger during **2023–2024**.
+
+### 💹 Market Capitalization Data Quality
+
+- The `market_cap_cr` field contained mixed formats, including rupee-formatted strings and numeric values.
+- Currency symbols, commas, and the **Cr** suffix were removed before converting values into standardized numeric ₹ crores.
+- This improved consistency and enabled accurate market-cap aggregation and comparison.
+
+### 🏆 Portfolio Comparison
+
+| Portfolio | Portfolio Value | Return |
+|------|------:|------:|
+| **MIDCAP_PORTFOLIO** | ₹361.97 crore | **514.76%** |
+| **SECTORAL_PORTFOLIO** | ₹259.62 crore | **397.89%** |
+| **NIFTY50_PORTFOLIO** | ₹106.88 crore | **76.33%** |
+
+- **MIDCAP_PORTFOLIO** was the strongest-performing strategy with a **514.76% return**.
+- **SECTORAL_PORTFOLIO** ranked second with **397.89%**.
+- **NIFTY50_PORTFOLIO** generated the lowest return at **76.33%**.
+
+### 🚨 Analyst Rating Conflict
+
+- **NESTLEIND** represents a significant portfolio conflict because analysts rated the stock **SELL** while multiple large positions were still being held.
+- The largest position consisted of **1,711 shares**, worth approximately **₹4.48 crore**.
+- This highlights the need to regularly review portfolio holdings against current analyst recommendations.
+
+### 📊 Exchange Performance
+
+- **NSE stocks** significantly outperformed **BSE stocks**, generating an average return of **1,015.45%** compared with **54.11%** for BSE stocks.
+
+### 🏦 Sector Concentration Risk
+
+- The portfolio was over-concentrated in **Technology**, with **44.06% allocation**.
+- This exceeds the defined **35% risk threshold by 9.06 percentage points**.
+- High sector concentration increases exposure to sector-specific market volatility and highlights the need for greater diversification.
+
+### 📊 Sector Valuation
+
+- The **Automobile** sector recorded the highest average P/E ratio at **42.92**.
+- This indicates a premium valuation and strong investor growth expectations, while also increasing the risk of overvaluation if future earnings fail to meet expectations.
+
+### 💵 Dividend Income
+
+- **Technology** generated the highest dividend income at approximately **₹48.53 crore**.
+- Dividend sustainability should additionally be evaluated using payout ratio, earnings, and cash-flow metrics.
 
 ---
 
