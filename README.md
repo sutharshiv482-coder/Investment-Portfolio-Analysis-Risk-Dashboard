@@ -1,8 +1,8 @@
 # 📈 Investment Portfolio Analysis & Risk Dashboard
 
-An interactive **Web-Based Investment Portfolio Analytics Dashboard** built using **Python (Pandas), SQL, and a Single-Page Client-Side Web Dashboard** to analyze portfolio performance, measure investment risk, optimize asset allocation, and support data-driven investment decisions.
+An interactive **Web-Based Investment Portfolio Analytics Dashboard** built using **Python (Pandas), SQL, HTML, CSS, and JavaScript** to analyze portfolio performance, evaluate investment risk, monitor portfolio allocation, and support data-driven investment decisions.
 
-The project transforms raw stock market data into actionable insights that help wealth managers monitor portfolio health, evaluate risk, identify concentration issues, compare investment strategies, and improve long-term portfolio management.
+The project transforms raw stock market data into actionable insights that help wealth managers and investment analysts monitor portfolio health, evaluate holdings, understand sector exposure, compare portfolio performance, and identify potential investment risks.
 
 ---
 
@@ -11,31 +11,33 @@ The project transforms raw stock market data into actionable insights that help 
 Develop an end-to-end investment portfolio analytics solution to:
 
 - Analyze portfolio performance across multiple stocks and portfolios.
-- Calculate daily, monthly, and cumulative investment returns.
-- Measure portfolio risk using financial risk metrics.
-- Identify profitable and underperforming stocks.
-- Evaluate sector diversification and concentration risk.
-- Optimize portfolio allocation using the Efficient Frontier.
-- Monitor key investment KPIs through an interactive dashboard.
-- Support smarter, data-driven investment decisions.
+- Monitor portfolio value and unrealised Profit & Loss (P&L).
+- Evaluate stock valuation using P/E ratios and dividend yield.
+- Analyze sector allocation and portfolio concentration.
+- Compare portfolio performance across different portfolio types.
+- Monitor analyst recommendations across current holdings.
+- Measure investment risk using financial risk metrics.
+- Support smarter, data-driven investment decisions through an interactive web dashboard.
 
 ---
 
 # 💼 Business Value
 
-Wealth management firms manage multiple investments to balance **returns, risk, and diversification**. Poor-quality financial data, excessive sector concentration, and limited risk visibility can result in suboptimal investment decisions.
+Wealth management teams need clear visibility into portfolio performance, valuation, risk, and diversification to make informed investment decisions.
 
 This project provides a centralized analytics solution to:
 
-- Monitor portfolio performance.
-- Identify major profit contributors.
-- Evaluate risk-adjusted returns.
-- Detect portfolio concentration.
-- Compare investment strategies.
-- Identify potential analyst-rating conflicts.
-- Support better portfolio allocation and risk management.
+- 📊 Monitor overall portfolio performance.
+- 💰 Track portfolio value and unrealised P&L.
+- 🏦 Identify sector concentration and diversification risks.
+- 📈 Evaluate stock valuation and dividend yield.
+- 🎯 Compare portfolio performance across investment strategies.
+- 🚨 Monitor BUY, HOLD, and SELL analyst recommendations.
+- 🔍 Identify major portfolio holdings by market value.
+- 📌 Support data-driven portfolio management decisions.
 
 ---
+
 
 # ❓ Business Questions
 
@@ -48,12 +50,12 @@ This project provides a centralized analytics solution to:
 - How can mixed market capitalization formats be standardized?
 - Are there any OHLC data quality issues?
 - Which portfolio has the highest overall return and value?
-- Are there stocks rated **"Sell"** by analysts while still holding large positions?
+- Are there stocks rated **SELL** by analysts while still holding large positions?
 - Which exchange, NSE or BSE, generated higher average returns?
 - Is the portfolio over-concentrated in any sector?
 - Which sector has the highest average P/E ratio?
 - Which sector generates the highest dividend income?
-- Is the portfolio sufficiently diversified across sectors?
+- How do portfolio types compare in terms of average return?
 
 ---
 
