@@ -244,7 +244,16 @@ This project provides a centralized analytics solution to:
 
 # 💡 Business Recommendations
 
-- 
+- 🏦 **Reduce sector concentration:** Review the Technology allocation of **44.06%** and consider greater diversification.
+- 📊 **Monitor top holdings:** Closely monitor major unrealised-profit contributors to protect accumulated gains.
+- ⚖️ **Focus on risk-adjusted performance:** Review stocks with consistently weaker Sharpe Ratios.
+- ⚠️ **Strengthen risk monitoring:** Use VaR, volatility, Beta, and Maximum Drawdown together to monitor portfolio risk.
+- 🚨 **Review analyst conflicts:** Investigate large holdings with SELL recommendations.
+- 📈 **Validate extreme returns:** Investigate unusually high monthly returns before using them for strategic decisions.
+- 🏦 **Improve diversification:** Reduce dependence on individual sectors and stocks.
+- 💵 **Evaluate dividend sustainability:** Consider payout ratios, earnings, and cash flows alongside dividend yield.
+- 🎯 **Use portfolio optimization:** Apply Efficient Frontier analysis to identify a better balance between expected return and risk.
+- 🔄 **Monitor portfolio performance regularly:** Track portfolio value, P&L, sector allocation, valuation, and analyst ratings.
 
 ---
 
