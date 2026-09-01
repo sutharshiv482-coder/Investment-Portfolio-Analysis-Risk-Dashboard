@@ -259,9 +259,18 @@ This project provides a centralized analytics solution to:
 
 # 📈 Business Impact
 
-The Investment Portfolio Analysis Dashboard helps wealth managers:
+The Investment Portfolio Analysis & Risk Dashboard helps wealth managers and investment analysts:
 
-- 
+- 📈 Identify major profit and return drivers.
+- 💰 Monitor portfolio value and unrealised P&L.
+- ⚠️ Detect portfolio risk and concentration exposure.
+- ⚖️ Evaluate risk-adjusted investment performance.
+- 🎯 Improve asset allocation decisions.
+- 🏦 Strengthen portfolio diversification.
+- 🚨 Identify analyst recommendation conflicts.
+- 📊 Compare portfolio strategies effectively.
+- 🔍 Improve financial data quality.
+- 🚀 Support faster, data-driven investment decisions.
 
 ---
 
