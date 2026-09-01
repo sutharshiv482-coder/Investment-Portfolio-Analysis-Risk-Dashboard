@@ -276,20 +276,6 @@ The Investment Portfolio Analysis & Risk Dashboard helps wealth managers and inv
 
 # 🧠 Skills Demonstrated
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Python (Pandas)
-- SQL
-- Power BI
-- Financial Data Analysis
-- Portfolio Performance Analysis
-- Risk Analytics
-- Portfolio Optimization
-- KPI Reporting
-- Dashboard Design
-- Business Intelligence
-- Data Visualization
-
 ---
 
 # 🚀 Project Outcome
